@@ -1,0 +1,4652 @@
+{
+  "polls": [
+    {
+      "id": "poll_8f6bkzomuk2f54c",
+      "title": "Closed Auditorium Poll",
+      "question": "",
+      "type": "yes_no",
+      "status": "closed",
+      "join_code": "PUYYQS",
+      "created_at": "2026-09-27T17:01:09.420Z",
+      "options": [
+        {
+          "id": "poll_8f6bkzomuk2f54c-opt-1",
+          "poll_id": "poll_8f6bkzomuk2f54c",
+          "option_text": "Yes",
+          "option_order": 1
+        },
+        {
+          "id": "poll_8f6bkzomuk2f54c-opt-2",
+          "poll_id": "poll_8f6bkzomuk2f54c",
+          "option_text": "No",
+          "option_order": 2
+        }
+      ],
+      "correct_option_id": null,
+      "time_limit_seconds": 30,
+      "current_question_index": 0
+    },
+    {
+      "id": "poll_x77u7btmuk2f52n",
+      "title": "Auditorium Network Stress Poll",
+      "question": "How is the campus Wi-Fi performing?",
+      "type": "multiple_choice",
+      "status": "active",
+      "join_code": "83YHYV",
+      "created_at": "2026-09-27T17:01:09.359Z",
+      "options": [
+        {
+          "id": "poll_x77u7btmuk2f52n-opt-1",
+          "poll_id": "poll_x77u7btmuk2f52n",
+          "option_text": "Lightning Fast",
+          "option_order": 1
+        },
+        {
+          "id": "poll_x77u7btmuk2f52n-opt-2",
+          "poll_id": "poll_x77u7btmuk2f52n",
+          "option_text": "Congested / Unstable",
+          "option_order": 2
+        },
+        {
+          "id": "poll_x77u7btmuk2f52n-opt-3",
+          "poll_id": "poll_x77u7btmuk2f52n",
+          "option_text": "Disconnected",
+          "option_order": 3
+        }
+      ],
+      "correct_option_id": null,
+      "time_limit_seconds": 30,
+      "current_question_index": 0
+    },
+    {
+      "id": "poll_ygokjwdmuk22bqh",
+      "title": "Speed Quiz: 3-Question Challenge",
+      "question": "What is the average time complexity of lookups in a balanced Binary Search Tree?",
+      "type": "quiz",
+      "status": "active",
+      "join_code": "27E9GZ",
+      "created_at": "2026-09-27T16:51:11.465Z",
+      "options": [
+        {
+          "id": "poll_ygokjwdmuk22bqh-q-1-opt-1",
+          "poll_id": "poll_ygokjwdmuk22bqh",
+          "option_text": "O(1)",
+          "option_order": 1
+        },
+        {
+          "id": "poll_ygokjwdmuk22bqh-q-1-opt-2",
+          "poll_id": "poll_ygokjwdmuk22bqh",
+          "option_text": "O(log n)",
+          "option_order": 2
+        },
+        {
+          "id": "poll_ygokjwdmuk22bqh-q-1-opt-3",
+          "poll_id": "poll_ygokjwdmuk22bqh",
+          "option_text": "O(n)",
+          "option_order": 3
+        },
+        {
+          "id": "poll_ygokjwdmuk22bqh-q-1-opt-4",
+          "poll_id": "poll_ygokjwdmuk22bqh",
+          "option_text": "O(n log n)",
+          "option_order": 4
+        }
+      ],
+      "correct_option_id": "poll_ygokjwdmuk22bqh-q-1-opt-2",
+      "time_limit_seconds": 30,
+      "questions": [
+        {
+          "id": "poll_ygokjwdmuk22bqh-q-1",
+          "poll_id": "poll_ygokjwdmuk22bqh",
+          "question_text": "What is the average time complexity of lookups in a balanced Binary Search Tree?",
+          "options": [
+            {
+              "id": "poll_ygokjwdmuk22bqh-q-1-opt-1",
+              "poll_id": "poll_ygokjwdmuk22bqh",
+              "option_text": "O(1)",
+              "option_order": 1
+            },
+            {
+              "id": "poll_ygokjwdmuk22bqh-q-1-opt-2",
+              "poll_id": "poll_ygokjwdmuk22bqh",
+              "option_text": "O(log n)",
+              "option_order": 2
+            },
+            {
+              "id": "poll_ygokjwdmuk22bqh-q-1-opt-3",
+              "poll_id": "poll_ygokjwdmuk22bqh",
+              "option_text": "O(n)",
+              "option_order": 3
+            },
+            {
+              "id": "poll_ygokjwdmuk22bqh-q-1-opt-4",
+              "poll_id": "poll_ygokjwdmuk22bqh",
+              "option_text": "O(n log n)",
+              "option_order": 4
+            }
+          ],
+          "correct_option_id": "poll_ygokjwdmuk22bqh-q-1-opt-2",
+          "time_limit_seconds": 30,
+          "question_order": 1
+        },
+        {
+          "id": "poll_ygokjwdmuk22bqh-q-2",
+          "poll_id": "poll_ygokjwdmuk22bqh",
+          "question_text": "Which HTTP status code signifies that a resource was permanently moved?",
+          "options": [
+            {
+              "id": "poll_ygokjwdmuk22bqh-q-2-opt-1",
+              "poll_id": "poll_ygokjwdmuk22bqh",
+              "option_text": "200 OK",
+              "option_order": 1
+            },
+            {
+              "id": "poll_ygokjwdmuk22bqh-q-2-opt-2",
+              "poll_id": "poll_ygokjwdmuk22bqh",
+              "option_text": "301 Moved Permanently",
+              "option_order": 2
+            },
+            {
+              "id": "poll_ygokjwdmuk22bqh-q-2-opt-3",
+              "poll_id": "poll_ygokjwdmuk22bqh",
+              "option_text": "404 Not Found",
+              "option_order": 3
+            },
+            {
+              "id": "poll_ygokjwdmuk22bqh-q-2-opt-4",
+              "poll_id": "poll_ygokjwdmuk22bqh",
+              "option_text": "502 Bad Gateway",
+              "option_order": 4
+            }
+          ],
+          "correct_option_id": "poll_ygokjwdmuk22bqh-q-2-opt-2",
+          "time_limit_seconds": 20,
+          "question_order": 2
+        },
+        {
+          "id": "poll_ygokjwdmuk22bqh-q-3",
+          "poll_id": "poll_ygokjwdmuk22bqh",
+          "question_text": "Which sorting algorithm has a guaranteed worst-case time complexity of O(n log n)?",
+          "options": [
+            {
+              "id": "poll_ygokjwdmuk22bqh-q-3-opt-1",
+              "poll_id": "poll_ygokjwdmuk22bqh",
+              "option_text": "Quick Sort",
+              "option_order": 1
+            },
+            {
+              "id": "poll_ygokjwdmuk22bqh-q-3-opt-2",
+              "poll_id": "poll_ygokjwdmuk22bqh",
+              "option_text": "Merge Sort",
+              "option_order": 2
+            },
+            {
+              "id": "poll_ygokjwdmuk22bqh-q-3-opt-3",
+              "poll_id": "poll_ygokjwdmuk22bqh",
+              "option_text": "Bubble Sort",
+              "option_order": 3
+            },
+            {
+              "id": "poll_ygokjwdmuk22bqh-q-3-opt-4",
+              "poll_id": "poll_ygokjwdmuk22bqh",
+              "option_text": "Insertion Sort",
+              "option_order": 4
+            }
+          ],
+          "correct_option_id": "poll_ygokjwdmuk22bqh-q-3-opt-2",
+          "time_limit_seconds": 25,
+          "question_order": 3
+        }
+      ],
+      "current_question_index": 0,
+      "quiz_state": "countdown",
+      "quiz_started_at": "2026-09-27T16:51:52.271Z",
+      "countdown_end_at": "2026-09-27T16:51:55.271Z",
+      "question_started_at": null
+    },
+    {
+      "id": "poll_0me7h7xmuiyyvcd",
+      "title": "Closed Auditorium Poll",
+      "question": "",
+      "type": "yes_no",
+      "status": "closed",
+      "join_code": "CBAXMV",
+      "created_at": "2026-09-26T22:36:45.229Z",
+      "options": [
+        {
+          "id": "poll_0me7h7xmuiyyvcd-opt-1",
+          "poll_id": "poll_0me7h7xmuiyyvcd",
+          "option_text": "Yes",
+          "option_order": 1
+        },
+        {
+          "id": "poll_0me7h7xmuiyyvcd-opt-2",
+          "poll_id": "poll_0me7h7xmuiyyvcd",
+          "option_text": "No",
+          "option_order": 2
+        }
+      ],
+      "correct_option_id": null,
+      "time_limit_seconds": 30,
+      "current_question_index": 0
+    },
+    {
+      "id": "poll_gd6j23bmuiyyvav",
+      "title": "Auditorium Network Stress Poll",
+      "question": "How is the campus Wi-Fi performing?",
+      "type": "multiple_choice",
+      "status": "active",
+      "join_code": "DPKHUH",
+      "created_at": "2026-09-26T22:36:45.175Z",
+      "options": [
+        {
+          "id": "poll_gd6j23bmuiyyvav-opt-1",
+          "poll_id": "poll_gd6j23bmuiyyvav",
+          "option_text": "Lightning Fast",
+          "option_order": 1
+        },
+        {
+          "id": "poll_gd6j23bmuiyyvav-opt-2",
+          "poll_id": "poll_gd6j23bmuiyyvav",
+          "option_text": "Congested / Unstable",
+          "option_order": 2
+        },
+        {
+          "id": "poll_gd6j23bmuiyyvav-opt-3",
+          "poll_id": "poll_gd6j23bmuiyyvav",
+          "option_text": "Disconnected",
+          "option_order": 3
+        }
+      ],
+      "correct_option_id": null,
+      "time_limit_seconds": 30,
+      "current_question_index": 0
+    },
+    {
+      "id": "poll_qfmfk0umuixp97v",
+      "title": "Closed Auditorium Poll",
+      "question": "",
+      "type": "yes_no",
+      "status": "closed",
+      "join_code": "NEM2UU",
+      "created_at": "2026-09-26T22:01:17.035Z",
+      "options": [
+        {
+          "id": "poll_qfmfk0umuixp97v-opt-1",
+          "poll_id": "poll_qfmfk0umuixp97v",
+          "option_text": "Yes",
+          "option_order": 1
+        },
+        {
+          "id": "poll_qfmfk0umuixp97v-opt-2",
+          "poll_id": "poll_qfmfk0umuixp97v",
+          "option_text": "No",
+          "option_order": 2
+        }
+      ],
+      "correct_option_id": null,
+      "time_limit_seconds": 30,
+      "current_question_index": 0
+    },
+    {
+      "id": "poll_ju9moc4muixp96f",
+      "title": "Auditorium Network Stress Poll",
+      "question": "How is the campus Wi-Fi performing?",
+      "type": "multiple_choice",
+      "status": "active",
+      "join_code": "VZRADR",
+      "created_at": "2026-09-26T22:01:16.983Z",
+      "options": [
+        {
+          "id": "poll_ju9moc4muixp96f-opt-1",
+          "poll_id": "poll_ju9moc4muixp96f",
+          "option_text": "Lightning Fast",
+          "option_order": 1
+        },
+        {
+          "id": "poll_ju9moc4muixp96f-opt-2",
+          "poll_id": "poll_ju9moc4muixp96f",
+          "option_text": "Congested / Unstable",
+          "option_order": 2
+        },
+        {
+          "id": "poll_ju9moc4muixp96f-opt-3",
+          "poll_id": "poll_ju9moc4muixp96f",
+          "option_text": "Disconnected",
+          "option_order": 3
+        }
+      ],
+      "correct_option_id": null,
+      "time_limit_seconds": 30,
+      "current_question_index": 0
+    },
+    {
+      "id": "demo-quiz-lightning",
+      "title": "CS Speed Challenge: 3-Round Blitz",
+      "question": "What is the average time complexity of lookups in a balanced Binary Search Tree?",
+      "type": "quiz",
+      "status": "active",
+      "join_code": "SPEED9",
+      "created_at": "2026-09-26T21:01:05.688Z",
+      "correct_option_id": "q1-opt-2",
+      "quiz_started_at": "2026-09-26T21:01:05.689Z",
+      "time_limit_seconds": 30,
+      "current_question_index": 0,
+      "quiz_state": "active",
+      "questions": [
+        {
+          "id": "q1",
+          "poll_id": "demo-quiz-lightning",
+          "question_text": "What is the average time complexity of lookups in a balanced Binary Search Tree?",
+          "options": [
+            {
+              "id": "q1-opt-1",
+              "poll_id": "demo-quiz-lightning",
+              "option_text": "O(1)",
+              "option_order": 1
+            },
+            {
+              "id": "q1-opt-2",
+              "poll_id": "demo-quiz-lightning",
+              "option_text": "O(log n)",
+              "option_order": 2
+            },
+            {
+              "id": "q1-opt-3",
+              "poll_id": "demo-quiz-lightning",
+              "option_text": "O(n)",
+              "option_order": 3
+            },
+            {
+              "id": "q1-opt-4",
+              "poll_id": "demo-quiz-lightning",
+              "option_text": "O(n log n)",
+              "option_order": 4
+            }
+          ],
+          "correct_option_id": "q1-opt-2",
+          "time_limit_seconds": 30,
+          "question_order": 1
+        },
+        {
+          "id": "q2",
+          "poll_id": "demo-quiz-lightning",
+          "question_text": "Which HTTP status code signifies that a resource was permanently moved?",
+          "options": [
+            {
+              "id": "q2-opt-1",
+              "poll_id": "demo-quiz-lightning",
+              "option_text": "200 OK",
+              "option_order": 1
+            },
+            {
+              "id": "q2-opt-2",
+              "poll_id": "demo-quiz-lightning",
+              "option_text": "301 Moved Permanently",
+              "option_order": 2
+            },
+            {
+              "id": "q2-opt-3",
+              "poll_id": "demo-quiz-lightning",
+              "option_text": "404 Not Found",
+              "option_order": 3
+            },
+            {
+              "id": "q2-opt-4",
+              "poll_id": "demo-quiz-lightning",
+              "option_text": "502 Bad Gateway",
+              "option_order": 4
+            }
+          ],
+          "correct_option_id": "q2-opt-2",
+          "time_limit_seconds": 20,
+          "question_order": 2
+        },
+        {
+          "id": "q3",
+          "poll_id": "demo-quiz-lightning",
+          "question_text": "Which sorting algorithm has a guaranteed worst-case time complexity of O(n log n)?",
+          "options": [
+            {
+              "id": "q3-opt-1",
+              "poll_id": "demo-quiz-lightning",
+              "option_text": "Quick Sort",
+              "option_order": 1
+            },
+            {
+              "id": "q3-opt-2",
+              "poll_id": "demo-quiz-lightning",
+              "option_text": "Merge Sort",
+              "option_order": 2
+            },
+            {
+              "id": "q3-opt-3",
+              "poll_id": "demo-quiz-lightning",
+              "option_text": "Bubble Sort",
+              "option_order": 3
+            },
+            {
+              "id": "q3-opt-4",
+              "poll_id": "demo-quiz-lightning",
+              "option_text": "Insertion Sort",
+              "option_order": 4
+            }
+          ],
+          "correct_option_id": "q3-opt-2",
+          "time_limit_seconds": 25,
+          "question_order": 3
+        }
+      ],
+      "options": [
+        {
+          "id": "q1-opt-1",
+          "poll_id": "demo-quiz-lightning",
+          "option_text": "O(1)",
+          "option_order": 1
+        },
+        {
+          "id": "q1-opt-2",
+          "poll_id": "demo-quiz-lightning",
+          "option_text": "O(log n)",
+          "option_order": 2
+        },
+        {
+          "id": "q1-opt-3",
+          "poll_id": "demo-quiz-lightning",
+          "option_text": "O(n)",
+          "option_order": 3
+        },
+        {
+          "id": "q1-opt-4",
+          "poll_id": "demo-quiz-lightning",
+          "option_text": "O(n log n)",
+          "option_order": 4
+        }
+      ]
+    },
+    {
+      "id": "demo-tech-fest",
+      "title": "College Tech Fest 2026",
+      "question": "Which keynote track are you most excited for today?",
+      "type": "multiple_choice",
+      "status": "active",
+      "join_code": "TECH26",
+      "created_at": "2026-09-26T20:01:05.689Z",
+      "options": [
+        {
+          "id": "opt-1",
+          "poll_id": "demo-tech-fest",
+          "option_text": "Autonomous Robotics & Drones",
+          "option_order": 1
+        },
+        {
+          "id": "opt-2",
+          "poll_id": "demo-tech-fest",
+          "option_text": "Web3 & Decentralized Cloud",
+          "option_order": 2
+        },
+        {
+          "id": "opt-3",
+          "poll_id": "demo-tech-fest",
+          "option_text": "Full-Stack System Architecture",
+          "option_order": 3
+        },
+        {
+          "id": "opt-4",
+          "poll_id": "demo-tech-fest",
+          "option_text": "Cybersecurity & Ethical Hacking",
+          "option_order": 4
+        }
+      ]
+    },
+    {
+      "id": "demo-algorithms-check",
+      "title": "CS301: Graph Algorithms Lecture",
+      "question": "Did today’s visual breakdown of Dijkstra’s shortest path make sense?",
+      "type": "yes_no",
+      "status": "active",
+      "join_code": "ALGO99",
+      "created_at": "2026-09-26T17:01:05.689Z",
+      "options": [
+        {
+          "id": "opt-yes",
+          "poll_id": "demo-algorithms-check",
+          "option_text": "Yes",
+          "option_order": 1
+        },
+        {
+          "id": "opt-no",
+          "poll_id": "demo-algorithms-check",
+          "option_text": "No",
+          "option_order": 2
+        }
+      ]
+    }
+  ],
+  "poll_options": [
+    {
+      "id": "poll_ygokjwdmuk22bqh-q-1-opt-1",
+      "poll_id": "poll_ygokjwdmuk22bqh",
+      "option_text": "O(1)",
+      "option_order": 1
+    },
+    {
+      "id": "poll_ygokjwdmuk22bqh-q-1-opt-2",
+      "poll_id": "poll_ygokjwdmuk22bqh",
+      "option_text": "O(log n)",
+      "option_order": 2
+    },
+    {
+      "id": "poll_ygokjwdmuk22bqh-q-1-opt-3",
+      "poll_id": "poll_ygokjwdmuk22bqh",
+      "option_text": "O(n)",
+      "option_order": 3
+    },
+    {
+      "id": "poll_ygokjwdmuk22bqh-q-1-opt-4",
+      "poll_id": "poll_ygokjwdmuk22bqh",
+      "option_text": "O(n log n)",
+      "option_order": 4
+    },
+    {
+      "id": "poll_x77u7btmuk2f52n-opt-1",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "option_text": "Lightning Fast",
+      "option_order": 1
+    },
+    {
+      "id": "poll_x77u7btmuk2f52n-opt-2",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "option_text": "Congested / Unstable",
+      "option_order": 2
+    },
+    {
+      "id": "poll_x77u7btmuk2f52n-opt-3",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "option_text": "Disconnected",
+      "option_order": 3
+    },
+    {
+      "id": "poll_8f6bkzomuk2f54c-opt-1",
+      "poll_id": "poll_8f6bkzomuk2f54c",
+      "option_text": "Yes",
+      "option_order": 1
+    },
+    {
+      "id": "poll_8f6bkzomuk2f54c-opt-2",
+      "poll_id": "poll_8f6bkzomuk2f54c",
+      "option_text": "No",
+      "option_order": 2
+    }
+  ],
+  "responses": [
+    {
+      "id": "qr1",
+      "poll_id": "demo-quiz-lightning",
+      "question_id": "q1",
+      "question_index": 0,
+      "option_id": "q1-opt-2",
+      "participant_id": "p_alex",
+      "participant_name": "Alex Chen",
+      "response_time_ms": 2150,
+      "points": 928,
+      "is_correct": true,
+      "created_at": "2026-09-26T22:00:15.689Z"
+    },
+    {
+      "id": "qr2",
+      "poll_id": "demo-quiz-lightning",
+      "question_id": "q1",
+      "question_index": 0,
+      "option_id": "q1-opt-2",
+      "participant_id": "p_priya",
+      "participant_name": "Priya Sharma",
+      "response_time_ms": 3420,
+      "points": 886,
+      "is_correct": true,
+      "created_at": "2026-09-26T22:00:17.689Z"
+    },
+    {
+      "id": "r1",
+      "poll_id": "demo-tech-fest",
+      "option_id": "opt-1",
+      "participant_id": "p_init_1",
+      "created_at": "2026-09-26T22:01:05.689Z"
+    },
+    {
+      "id": "r2",
+      "poll_id": "demo-tech-fest",
+      "option_id": "opt-1",
+      "participant_id": "p_init_2",
+      "created_at": "2026-09-26T22:01:05.689Z"
+    },
+    {
+      "id": "r3",
+      "poll_id": "demo-tech-fest",
+      "option_id": "opt-2",
+      "participant_id": "p_init_3",
+      "created_at": "2026-09-26T22:01:05.689Z"
+    },
+    {
+      "id": "r20",
+      "poll_id": "demo-algorithms-check",
+      "option_id": "opt-yes",
+      "participant_id": "p_20",
+      "created_at": "2026-09-26T22:01:05.689Z"
+    },
+    {
+      "id": "r21",
+      "poll_id": "demo-algorithms-check",
+      "option_id": "opt-yes",
+      "participant_id": "p_21",
+      "created_at": "2026-09-26T22:01:05.689Z"
+    },
+    {
+      "id": "resp_p353m6umuixp974",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "student_alice_01",
+      "participant_name": "Alice Green",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_student01_1790460077004",
+      "created_at": "2026-09-26T22:01:17.008Z"
+    },
+    {
+      "id": "resp_8gh8b78muixp98j",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_0",
+      "participant_name": "Student 0",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_0_1790460077044",
+      "created_at": "2026-09-26T22:01:17.059Z"
+    },
+    {
+      "id": "resp_wq0zrdvmuixp98o",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_1",
+      "participant_name": "Student 1",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_1_1790460077044",
+      "created_at": "2026-09-26T22:01:17.064Z"
+    },
+    {
+      "id": "resp_nz9m5s1muixp98p",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_7",
+      "participant_name": "Student 7",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_7_1790460077046",
+      "created_at": "2026-09-26T22:01:17.065Z"
+    },
+    {
+      "id": "resp_ss2t6camuixp98s",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_8",
+      "participant_name": "Student 8",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_8_1790460077046",
+      "created_at": "2026-09-26T22:01:17.068Z"
+    },
+    {
+      "id": "resp_83td8a4muixp98t",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_2",
+      "participant_name": "Student 2",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_2_1790460077045",
+      "created_at": "2026-09-26T22:01:17.069Z"
+    },
+    {
+      "id": "resp_cdu00t6muixp98x",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_5",
+      "participant_name": "Student 5",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_5_1790460077045",
+      "created_at": "2026-09-26T22:01:17.073Z"
+    },
+    {
+      "id": "resp_edg2rstmuixp98y",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_9",
+      "participant_name": "Student 9",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_9_1790460077046",
+      "created_at": "2026-09-26T22:01:17.074Z"
+    },
+    {
+      "id": "resp_9gwe00zmuixp991",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_3",
+      "participant_name": "Student 3",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_3_1790460077045",
+      "created_at": "2026-09-26T22:01:17.077Z"
+    },
+    {
+      "id": "resp_6aitit5muixp991",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_4",
+      "participant_name": "Student 4",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_4_1790460077045",
+      "created_at": "2026-09-26T22:01:17.077Z"
+    },
+    {
+      "id": "resp_v1u4ihumuixp992",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_6",
+      "participant_name": "Student 6",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_6_1790460077046",
+      "created_at": "2026-09-26T22:01:17.078Z"
+    },
+    {
+      "id": "resp_lmozpzpmuixp99e",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_11",
+      "participant_name": "Student 11",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_11_1790460077047",
+      "created_at": "2026-09-26T22:01:17.090Z"
+    },
+    {
+      "id": "resp_9i63karmuixp99f",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_13",
+      "participant_name": "Student 13",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_13_1790460077047",
+      "created_at": "2026-09-26T22:01:17.091Z"
+    },
+    {
+      "id": "resp_dsch2ftmuixp99g",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_14",
+      "participant_name": "Student 14",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_14_1790460077047",
+      "created_at": "2026-09-26T22:01:17.092Z"
+    },
+    {
+      "id": "resp_hagp579muixp99h",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_15",
+      "participant_name": "Student 15",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_15_1790460077047",
+      "created_at": "2026-09-26T22:01:17.093Z"
+    },
+    {
+      "id": "resp_wdxm9zrmuixp99l",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_10",
+      "participant_name": "Student 10",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_10_1790460077047",
+      "created_at": "2026-09-26T22:01:17.097Z"
+    },
+    {
+      "id": "resp_g0qf7p4muixp99m",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_17",
+      "participant_name": "Student 17",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_17_1790460077048",
+      "created_at": "2026-09-26T22:01:17.098Z"
+    },
+    {
+      "id": "resp_yc9d5k1muixp9aa",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_12",
+      "participant_name": "Student 12",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_12_1790460077047",
+      "created_at": "2026-09-26T22:01:17.122Z"
+    },
+    {
+      "id": "resp_556zfgfmuixp9ab",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_30",
+      "participant_name": "Student 30",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_30_1790460077049",
+      "created_at": "2026-09-26T22:01:17.123Z"
+    },
+    {
+      "id": "resp_y6b87jqmuixp9ac",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_33",
+      "participant_name": "Student 33",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_33_1790460077050",
+      "created_at": "2026-09-26T22:01:17.124Z"
+    },
+    {
+      "id": "resp_jq6udkcmuixp9ad",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_36",
+      "participant_name": "Student 36",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_36_1790460077051",
+      "created_at": "2026-09-26T22:01:17.125Z"
+    },
+    {
+      "id": "resp_l9py99dmuixp9ae",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_38",
+      "participant_name": "Student 38",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_38_1790460077051",
+      "created_at": "2026-09-26T22:01:17.126Z"
+    },
+    {
+      "id": "resp_lehec8emuixp9ag",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_41",
+      "participant_name": "Student 41",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_41_1790460077052",
+      "created_at": "2026-09-26T22:01:17.128Z"
+    },
+    {
+      "id": "resp_kdk3dy6muixp9ah",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_43",
+      "participant_name": "Student 43",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_43_1790460077052",
+      "created_at": "2026-09-26T22:01:17.129Z"
+    },
+    {
+      "id": "resp_skcxj9amuixp9ai",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_49",
+      "participant_name": "Student 49",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_49_1790460077053",
+      "created_at": "2026-09-26T22:01:17.130Z"
+    },
+    {
+      "id": "resp_fm6p05qmuixp9aj",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_27",
+      "participant_name": "Student 27",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_27_1790460077049",
+      "created_at": "2026-09-26T22:01:17.131Z"
+    },
+    {
+      "id": "resp_b7zfarrmuixp9ak",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_19",
+      "participant_name": "Student 19",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_19_1790460077048",
+      "created_at": "2026-09-26T22:01:17.132Z"
+    },
+    {
+      "id": "resp_2t938tcmuixp9am",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_20",
+      "participant_name": "Student 20",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_20_1790460077048",
+      "created_at": "2026-09-26T22:01:17.134Z"
+    },
+    {
+      "id": "resp_3sgmbjtmuixp9an",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_29",
+      "participant_name": "Student 29",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_29_1790460077049",
+      "created_at": "2026-09-26T22:01:17.135Z"
+    },
+    {
+      "id": "resp_tl3i973muixp9ao",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_34",
+      "participant_name": "Student 34",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_34_1790460077050",
+      "created_at": "2026-09-26T22:01:17.136Z"
+    },
+    {
+      "id": "resp_9sg0adzmuixp9ap",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_39",
+      "participant_name": "Student 39",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_39_1790460077051",
+      "created_at": "2026-09-26T22:01:17.137Z"
+    },
+    {
+      "id": "resp_nx91kajmuixp9aq",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_40",
+      "participant_name": "Student 40",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_40_1790460077051",
+      "created_at": "2026-09-26T22:01:17.138Z"
+    },
+    {
+      "id": "resp_s85i64lmuixp9ar",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_42",
+      "participant_name": "Student 42",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_42_1790460077052",
+      "created_at": "2026-09-26T22:01:17.139Z"
+    },
+    {
+      "id": "resp_7c6cmdsmuixp9at",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_44",
+      "participant_name": "Student 44",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_44_1790460077052",
+      "created_at": "2026-09-26T22:01:17.141Z"
+    },
+    {
+      "id": "resp_343w1z5muixp9au",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_18",
+      "participant_name": "Student 18",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_18_1790460077048",
+      "created_at": "2026-09-26T22:01:17.142Z"
+    },
+    {
+      "id": "resp_9tbzrakmuixp9av",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_25",
+      "participant_name": "Student 25",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_25_1790460077049",
+      "created_at": "2026-09-26T22:01:17.143Z"
+    },
+    {
+      "id": "resp_c72ytn5muixp9aw",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_23",
+      "participant_name": "Student 23",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_23_1790460077048",
+      "created_at": "2026-09-26T22:01:17.144Z"
+    },
+    {
+      "id": "resp_7kjt839muixp9ax",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_28",
+      "participant_name": "Student 28",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_28_1790460077049",
+      "created_at": "2026-09-26T22:01:17.145Z"
+    },
+    {
+      "id": "resp_72lr0x5muixp9bc",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_35",
+      "participant_name": "Student 35",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_35_1790460077050",
+      "created_at": "2026-09-26T22:01:17.160Z"
+    },
+    {
+      "id": "resp_v0vmqsomuixp9be",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_46",
+      "participant_name": "Student 46",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_46_1790460077053",
+      "created_at": "2026-09-26T22:01:17.162Z"
+    },
+    {
+      "id": "resp_c6tu6xrmuixp9bf",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_48",
+      "participant_name": "Student 48",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_48_1790460077053",
+      "created_at": "2026-09-26T22:01:17.163Z"
+    },
+    {
+      "id": "resp_ooq2wimmuixp9bg",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_16",
+      "participant_name": "Student 16",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_16_1790460077047",
+      "created_at": "2026-09-26T22:01:17.164Z"
+    },
+    {
+      "id": "resp_n6nftxdmuixp9bi",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_21",
+      "participant_name": "Student 21",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_21_1790460077048",
+      "created_at": "2026-09-26T22:01:17.166Z"
+    },
+    {
+      "id": "resp_nl8xmeomuixp9bj",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_22",
+      "participant_name": "Student 22",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_22_1790460077048",
+      "created_at": "2026-09-26T22:01:17.167Z"
+    },
+    {
+      "id": "resp_2aqlyglmuixp9bl",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_24",
+      "participant_name": "Student 24",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_24_1790460077049",
+      "created_at": "2026-09-26T22:01:17.169Z"
+    },
+    {
+      "id": "resp_y3enl95muixp9bm",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_26",
+      "participant_name": "Student 26",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_26_1790460077049",
+      "created_at": "2026-09-26T22:01:17.170Z"
+    },
+    {
+      "id": "resp_ox6d3dfmuixp9bn",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_31",
+      "participant_name": "Student 31",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_31_1790460077050",
+      "created_at": "2026-09-26T22:01:17.171Z"
+    },
+    {
+      "id": "resp_zi05fzzmuixp9bp",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_32",
+      "participant_name": "Student 32",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_32_1790460077050",
+      "created_at": "2026-09-26T22:01:17.173Z"
+    },
+    {
+      "id": "resp_potvg32muixp9br",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_37",
+      "participant_name": "Student 37",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_37_1790460077051",
+      "created_at": "2026-09-26T22:01:17.175Z"
+    },
+    {
+      "id": "resp_ts0l46pmuixp9bs",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_45",
+      "participant_name": "Student 45",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_45_1790460077053",
+      "created_at": "2026-09-26T22:01:17.176Z"
+    },
+    {
+      "id": "resp_dtpyqlomuixp9bt",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_47",
+      "participant_name": "Student 47",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_47_1790460077053",
+      "created_at": "2026-09-26T22:01:17.177Z"
+    },
+    {
+      "id": "resp_2o18pcemuixp9bz",
+      "poll_id": "poll_ju9moc4muixp96f",
+      "question_id": "poll_ju9moc4muixp96f",
+      "question_index": 0,
+      "option_id": "poll_ju9moc4muixp96f-opt-2",
+      "rating_value": null,
+      "participant_id": "student_net_drop_05",
+      "participant_name": "David Kim",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_net_retry_1790460077180",
+      "created_at": "2026-09-26T22:01:17.183Z"
+    },
+    {
+      "id": "resp_szjiut7muiyyvbm",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "student_alice_01",
+      "participant_name": "Alice Green",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_student01_1790462205198",
+      "created_at": "2026-09-26T22:36:45.202Z"
+    },
+    {
+      "id": "resp_v9abl13muiyyvd8",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_0",
+      "participant_name": "Student 0",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_0_1790462205242",
+      "created_at": "2026-09-26T22:36:45.260Z"
+    },
+    {
+      "id": "resp_b0hqtnbmuiyyvdd",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_2",
+      "participant_name": "Student 2",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_2_1790462205243",
+      "created_at": "2026-09-26T22:36:45.265Z"
+    },
+    {
+      "id": "resp_5appwxfmuiyyvdf",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_4",
+      "participant_name": "Student 4",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_4_1790462205243",
+      "created_at": "2026-09-26T22:36:45.267Z"
+    },
+    {
+      "id": "resp_3jlo7j2muiyyvdi",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_1",
+      "participant_name": "Student 1",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_1_1790462205243",
+      "created_at": "2026-09-26T22:36:45.270Z"
+    },
+    {
+      "id": "resp_blf6n6kmuiyyvdl",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_3",
+      "participant_name": "Student 3",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_3_1790462205243",
+      "created_at": "2026-09-26T22:36:45.273Z"
+    },
+    {
+      "id": "resp_nvgyw2bmuiyyvdn",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_5",
+      "participant_name": "Student 5",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_5_1790462205243",
+      "created_at": "2026-09-26T22:36:45.275Z"
+    },
+    {
+      "id": "resp_y0e9xylmuiyyvdu",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_15",
+      "participant_name": "Student 15",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_15_1790462205247",
+      "created_at": "2026-09-26T22:36:45.282Z"
+    },
+    {
+      "id": "resp_1r93q2vmuiyyvdw",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_20",
+      "participant_name": "Student 20",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_20_1790462205247",
+      "created_at": "2026-09-26T22:36:45.284Z"
+    },
+    {
+      "id": "resp_nf6vscwmuiyyvdy",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_30",
+      "participant_name": "Student 30",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_30_1790462205249",
+      "created_at": "2026-09-26T22:36:45.286Z"
+    },
+    {
+      "id": "resp_mvfnn7jmuiyyve3",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_33",
+      "participant_name": "Student 33",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_33_1790462205249",
+      "created_at": "2026-09-26T22:36:45.291Z"
+    },
+    {
+      "id": "resp_tdy9050muiyyve4",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_36",
+      "participant_name": "Student 36",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_36_1790462205250",
+      "created_at": "2026-09-26T22:36:45.292Z"
+    },
+    {
+      "id": "resp_h6ufzo4muiyyve6",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_7",
+      "participant_name": "Student 7",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_7_1790462205244",
+      "created_at": "2026-09-26T22:36:45.294Z"
+    },
+    {
+      "id": "resp_67m25zvmuiyyvex",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_9",
+      "participant_name": "Student 9",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_9_1790462205244",
+      "created_at": "2026-09-26T22:36:45.321Z"
+    },
+    {
+      "id": "resp_bvm0uqymuiyyvf1",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_11",
+      "participant_name": "Student 11",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_11_1790462205245",
+      "created_at": "2026-09-26T22:36:45.325Z"
+    },
+    {
+      "id": "resp_ngwg6uomuiyyvf3",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_17",
+      "participant_name": "Student 17",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_17_1790462205247",
+      "created_at": "2026-09-26T22:36:45.327Z"
+    },
+    {
+      "id": "resp_tdkbhyjmuiyyvf4",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_23",
+      "participant_name": "Student 23",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_23_1790462205248",
+      "created_at": "2026-09-26T22:36:45.328Z"
+    },
+    {
+      "id": "resp_je1k5dymuiyyvf6",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_25",
+      "participant_name": "Student 25",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_25_1790462205248",
+      "created_at": "2026-09-26T22:36:45.330Z"
+    },
+    {
+      "id": "resp_6u4hulwmuiyyvf9",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_26",
+      "participant_name": "Student 26",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_26_1790462205248",
+      "created_at": "2026-09-26T22:36:45.333Z"
+    },
+    {
+      "id": "resp_k9ixsuimuiyyvfa",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_28",
+      "participant_name": "Student 28",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_28_1790462205249",
+      "created_at": "2026-09-26T22:36:45.334Z"
+    },
+    {
+      "id": "resp_j0syfg0muiyyvfc",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_10",
+      "participant_name": "Student 10",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_10_1790462205245",
+      "created_at": "2026-09-26T22:36:45.336Z"
+    },
+    {
+      "id": "resp_vxe3aeimuiyyvfe",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_14",
+      "participant_name": "Student 14",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_14_1790462205247",
+      "created_at": "2026-09-26T22:36:45.338Z"
+    },
+    {
+      "id": "resp_54huxlnmuiyyvfh",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_19",
+      "participant_name": "Student 19",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_19_1790462205247",
+      "created_at": "2026-09-26T22:36:45.341Z"
+    },
+    {
+      "id": "resp_rbqjreamuiyyvfj",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_22",
+      "participant_name": "Student 22",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_22_1790462205248",
+      "created_at": "2026-09-26T22:36:45.343Z"
+    },
+    {
+      "id": "resp_7j9na9zmuiyyvfk",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_27",
+      "participant_name": "Student 27",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_27_1790462205248",
+      "created_at": "2026-09-26T22:36:45.344Z"
+    },
+    {
+      "id": "resp_rayg238muiyyvfn",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_32",
+      "participant_name": "Student 32",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_32_1790462205249",
+      "created_at": "2026-09-26T22:36:45.347Z"
+    },
+    {
+      "id": "resp_ip5zvk9muiyyvfp",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_35",
+      "participant_name": "Student 35",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_35_1790462205250",
+      "created_at": "2026-09-26T22:36:45.349Z"
+    },
+    {
+      "id": "resp_lst9ygemuiyyvfr",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_29",
+      "participant_name": "Student 29",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_29_1790462205249",
+      "created_at": "2026-09-26T22:36:45.351Z"
+    },
+    {
+      "id": "resp_64mvclemuiyyvft",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_6",
+      "participant_name": "Student 6",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_6_1790462205244",
+      "created_at": "2026-09-26T22:36:45.353Z"
+    },
+    {
+      "id": "resp_7h8ov1jmuiyyvfw",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_8",
+      "participant_name": "Student 8",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_8_1790462205244",
+      "created_at": "2026-09-26T22:36:45.356Z"
+    },
+    {
+      "id": "resp_t1ezvllmuiyyvfz",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_12",
+      "participant_name": "Student 12",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_12_1790462205246",
+      "created_at": "2026-09-26T22:36:45.359Z"
+    },
+    {
+      "id": "resp_gueipftmuiyyvg0",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_13",
+      "participant_name": "Student 13",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_13_1790462205246",
+      "created_at": "2026-09-26T22:36:45.360Z"
+    },
+    {
+      "id": "resp_rwi5etfmuiyyvg3",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_16",
+      "participant_name": "Student 16",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_16_1790462205247",
+      "created_at": "2026-09-26T22:36:45.363Z"
+    },
+    {
+      "id": "resp_40z7uqtmuiyyvg5",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_18",
+      "participant_name": "Student 18",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_18_1790462205247",
+      "created_at": "2026-09-26T22:36:45.365Z"
+    },
+    {
+      "id": "resp_zwt2k9gmuiyyvg6",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_21",
+      "participant_name": "Student 21",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_21_1790462205248",
+      "created_at": "2026-09-26T22:36:45.366Z"
+    },
+    {
+      "id": "resp_wagbso2muiyyvg9",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_24",
+      "participant_name": "Student 24",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_24_1790462205248",
+      "created_at": "2026-09-26T22:36:45.369Z"
+    },
+    {
+      "id": "resp_15hkgivmuiyyvga",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_31",
+      "participant_name": "Student 31",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_31_1790462205249",
+      "created_at": "2026-09-26T22:36:45.370Z"
+    },
+    {
+      "id": "resp_kk40ji3muiyyvgc",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_34",
+      "participant_name": "Student 34",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_34_1790462205249",
+      "created_at": "2026-09-26T22:36:45.372Z"
+    },
+    {
+      "id": "resp_3kjhsmvmuiyyvgf",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_38",
+      "participant_name": "Student 38",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_38_1790462205250",
+      "created_at": "2026-09-26T22:36:45.375Z"
+    },
+    {
+      "id": "resp_9ehk4ugmuiyyvgh",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_39",
+      "participant_name": "Student 39",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_39_1790462205250",
+      "created_at": "2026-09-26T22:36:45.377Z"
+    },
+    {
+      "id": "resp_l89jb3amuiyyvgj",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_40",
+      "participant_name": "Student 40",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_40_1790462205251",
+      "created_at": "2026-09-26T22:36:45.379Z"
+    },
+    {
+      "id": "resp_6knjx4cmuiyyvgl",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_43",
+      "participant_name": "Student 43",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_43_1790462205251",
+      "created_at": "2026-09-26T22:36:45.381Z"
+    },
+    {
+      "id": "resp_el3umfzmuiyyvgn",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_45",
+      "participant_name": "Student 45",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_45_1790462205252",
+      "created_at": "2026-09-26T22:36:45.383Z"
+    },
+    {
+      "id": "resp_0fxmo2bmuiyyvgp",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_42",
+      "participant_name": "Student 42",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_42_1790462205251",
+      "created_at": "2026-09-26T22:36:45.385Z"
+    },
+    {
+      "id": "resp_emgw5odmuiyyvgs",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_37",
+      "participant_name": "Student 37",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_37_1790462205250",
+      "created_at": "2026-09-26T22:36:45.388Z"
+    },
+    {
+      "id": "resp_05ifc3wmuiyyvgu",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_41",
+      "participant_name": "Student 41",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_41_1790462205251",
+      "created_at": "2026-09-26T22:36:45.390Z"
+    },
+    {
+      "id": "resp_6kzdgkwmuiyyvgw",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_44",
+      "participant_name": "Student 44",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_44_1790462205251",
+      "created_at": "2026-09-26T22:36:45.392Z"
+    },
+    {
+      "id": "resp_6nn4hq8muiyyvgz",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_48",
+      "participant_name": "Student 48",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_48_1790462205252",
+      "created_at": "2026-09-26T22:36:45.395Z"
+    },
+    {
+      "id": "resp_s6k6kiimuiyyvh1",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_46",
+      "participant_name": "Student 46",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_46_1790462205252",
+      "created_at": "2026-09-26T22:36:45.397Z"
+    },
+    {
+      "id": "resp_0vp4b5cmuiyyvh3",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_47",
+      "participant_name": "Student 47",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_47_1790462205252",
+      "created_at": "2026-09-26T22:36:45.399Z"
+    },
+    {
+      "id": "resp_yo1icc0muiyyvh7",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_49",
+      "participant_name": "Student 49",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_49_1790462205252",
+      "created_at": "2026-09-26T22:36:45.403Z"
+    },
+    {
+      "id": "resp_4ozwsismuiyyvhg",
+      "poll_id": "poll_gd6j23bmuiyyvav",
+      "question_id": "poll_gd6j23bmuiyyvav",
+      "question_index": 0,
+      "option_id": "poll_gd6j23bmuiyyvav-opt-2",
+      "rating_value": null,
+      "participant_id": "student_net_drop_05",
+      "participant_name": "David Kim",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_net_retry_1790462205409",
+      "created_at": "2026-09-26T22:36:45.412Z"
+    },
+    {
+      "id": "resp_upomedpmuk2f53i",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "student_alice_01",
+      "participant_name": "Alice Green",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_student01_1790528469384",
+      "created_at": "2026-09-27T17:01:09.390Z"
+    },
+    {
+      "id": "resp_4fpzya5muk2f559",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_0",
+      "participant_name": "Student 0",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_0_1790528469436",
+      "created_at": "2026-09-27T17:01:09.453Z"
+    },
+    {
+      "id": "resp_a5gfiipmuk2f55f",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_1",
+      "participant_name": "Student 1",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_1_1790528469437",
+      "created_at": "2026-09-27T17:01:09.459Z"
+    },
+    {
+      "id": "resp_r86bo1lmuk2f55j",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_3",
+      "participant_name": "Student 3",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_3_1790528469437",
+      "created_at": "2026-09-27T17:01:09.463Z"
+    },
+    {
+      "id": "resp_i0u78evmuk2f55l",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_5",
+      "participant_name": "Student 5",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_5_1790528469438",
+      "created_at": "2026-09-27T17:01:09.465Z"
+    },
+    {
+      "id": "resp_1qwtf4xmuk2f55n",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_2",
+      "participant_name": "Student 2",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_2_1790528469437",
+      "created_at": "2026-09-27T17:01:09.467Z"
+    },
+    {
+      "id": "resp_wc443nimuk2f55p",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_4",
+      "participant_name": "Student 4",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_4_1790528469437",
+      "created_at": "2026-09-27T17:01:09.469Z"
+    },
+    {
+      "id": "resp_vyj66a8muk2f55r",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_19",
+      "participant_name": "Student 19",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_19_1790528469440",
+      "created_at": "2026-09-27T17:01:09.471Z"
+    },
+    {
+      "id": "resp_bigxienmuk2f55u",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_27",
+      "participant_name": "Student 27",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_27_1790528469441",
+      "created_at": "2026-09-27T17:01:09.474Z"
+    },
+    {
+      "id": "resp_kdihtozmuk2f55w",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_9",
+      "participant_name": "Student 9",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_9_1790528469439",
+      "created_at": "2026-09-27T17:01:09.476Z"
+    },
+    {
+      "id": "resp_tw9ftimmuk2f55x",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_10",
+      "participant_name": "Student 10",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_10_1790528469439",
+      "created_at": "2026-09-27T17:01:09.477Z"
+    },
+    {
+      "id": "resp_623wwhymuk2f55z",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_17",
+      "participant_name": "Student 17",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_17_1790528469440",
+      "created_at": "2026-09-27T17:01:09.479Z"
+    },
+    {
+      "id": "resp_yanl51smuk2f572",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_18",
+      "participant_name": "Student 18",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_18_1790528469440",
+      "created_at": "2026-09-27T17:01:09.518Z"
+    },
+    {
+      "id": "resp_ivmfwcwmuk2f57i",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_26",
+      "participant_name": "Student 26",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_26_1790528469441",
+      "created_at": "2026-09-27T17:01:09.534Z"
+    },
+    {
+      "id": "resp_p3ozieamuk2f57k",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_7",
+      "participant_name": "Student 7",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_7_1790528469438",
+      "created_at": "2026-09-27T17:01:09.536Z"
+    },
+    {
+      "id": "resp_zgevxcwmuk2f57m",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_8",
+      "participant_name": "Student 8",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_8_1790528469438",
+      "created_at": "2026-09-27T17:01:09.538Z"
+    },
+    {
+      "id": "resp_ml6xgaemuk2f57n",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_11",
+      "participant_name": "Student 11",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_11_1790528469439",
+      "created_at": "2026-09-27T17:01:09.539Z"
+    },
+    {
+      "id": "resp_4xn0rdemuk2f57p",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_14",
+      "participant_name": "Student 14",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_14_1790528469439",
+      "created_at": "2026-09-27T17:01:09.541Z"
+    },
+    {
+      "id": "resp_fbtjljlmuk2f57r",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_15",
+      "participant_name": "Student 15",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_15_1790528469440",
+      "created_at": "2026-09-27T17:01:09.543Z"
+    },
+    {
+      "id": "resp_gx7hjeimuk2f57t",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_16",
+      "participant_name": "Student 16",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_16_1790528469440",
+      "created_at": "2026-09-27T17:01:09.545Z"
+    },
+    {
+      "id": "resp_bvskki5muk2f57v",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_21",
+      "participant_name": "Student 21",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_21_1790528469440",
+      "created_at": "2026-09-27T17:01:09.547Z"
+    },
+    {
+      "id": "resp_oonoh8pmuk2f57x",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_25",
+      "participant_name": "Student 25",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_25_1790528469441",
+      "created_at": "2026-09-27T17:01:09.549Z"
+    },
+    {
+      "id": "resp_d3bmvjmmuk2f57z",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_6",
+      "participant_name": "Student 6",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_6_1790528469438",
+      "created_at": "2026-09-27T17:01:09.551Z"
+    },
+    {
+      "id": "resp_ju3dwt0muk2f584",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_12",
+      "participant_name": "Student 12",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_12_1790528469439",
+      "created_at": "2026-09-27T17:01:09.556Z"
+    },
+    {
+      "id": "resp_wlba3xcmuk2f587",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_13",
+      "participant_name": "Student 13",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_13_1790528469439",
+      "created_at": "2026-09-27T17:01:09.559Z"
+    },
+    {
+      "id": "resp_lae4nlymuk2f58b",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_20",
+      "participant_name": "Student 20",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_20_1790528469440",
+      "created_at": "2026-09-27T17:01:09.563Z"
+    },
+    {
+      "id": "resp_x4wwu5nmuk2f58d",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_23",
+      "participant_name": "Student 23",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_23_1790528469441",
+      "created_at": "2026-09-27T17:01:09.565Z"
+    },
+    {
+      "id": "resp_4d8nx5smuk2f58h",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_24",
+      "participant_name": "Student 24",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_24_1790528469441",
+      "created_at": "2026-09-27T17:01:09.569Z"
+    },
+    {
+      "id": "resp_4jcpjl6muk2f58j",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_28",
+      "participant_name": "Student 28",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_28_1790528469441",
+      "created_at": "2026-09-27T17:01:09.571Z"
+    },
+    {
+      "id": "resp_ow3sdg7muk2f58l",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_29",
+      "participant_name": "Student 29",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_29_1790528469442",
+      "created_at": "2026-09-27T17:01:09.573Z"
+    },
+    {
+      "id": "resp_plmi72gmuk2f58n",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_30",
+      "participant_name": "Student 30",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_30_1790528469442",
+      "created_at": "2026-09-27T17:01:09.575Z"
+    },
+    {
+      "id": "resp_tjtlsajmuk2f58p",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_31",
+      "participant_name": "Student 31",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_31_1790528469442",
+      "created_at": "2026-09-27T17:01:09.577Z"
+    },
+    {
+      "id": "resp_ux9v1xymuk2f58r",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_33",
+      "participant_name": "Student 33",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_33_1790528469442",
+      "created_at": "2026-09-27T17:01:09.579Z"
+    },
+    {
+      "id": "resp_10nzeofmuk2f58u",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_36",
+      "participant_name": "Student 36",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_36_1790528469443",
+      "created_at": "2026-09-27T17:01:09.582Z"
+    },
+    {
+      "id": "resp_s2mlonlmuk2f58w",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_37",
+      "participant_name": "Student 37",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_37_1790528469443",
+      "created_at": "2026-09-27T17:01:09.584Z"
+    },
+    {
+      "id": "resp_l9p0i87muk2f590",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_38",
+      "participant_name": "Student 38",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_38_1790528469443",
+      "created_at": "2026-09-27T17:01:09.588Z"
+    },
+    {
+      "id": "resp_vyx39s5muk2f59a",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_32",
+      "participant_name": "Student 32",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_32_1790528469442",
+      "created_at": "2026-09-27T17:01:09.598Z"
+    },
+    {
+      "id": "resp_pdph54omuk2f59d",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_34",
+      "participant_name": "Student 34",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_34_1790528469443",
+      "created_at": "2026-09-27T17:01:09.601Z"
+    },
+    {
+      "id": "resp_iihx061muk2f59h",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_35",
+      "participant_name": "Student 35",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_35_1790528469443",
+      "created_at": "2026-09-27T17:01:09.605Z"
+    },
+    {
+      "id": "resp_6ka5stamuk2f59m",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_39",
+      "participant_name": "Student 39",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_39_1790528469444",
+      "created_at": "2026-09-27T17:01:09.610Z"
+    },
+    {
+      "id": "resp_47tx9clmuk2f59p",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_40",
+      "participant_name": "Student 40",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_40_1790528469444",
+      "created_at": "2026-09-27T17:01:09.613Z"
+    },
+    {
+      "id": "resp_z3hva2nmuk2f59s",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_41",
+      "participant_name": "Student 41",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_41_1790528469444",
+      "created_at": "2026-09-27T17:01:09.616Z"
+    },
+    {
+      "id": "resp_462aci3muk2f59w",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_42",
+      "participant_name": "Student 42",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_42_1790528469444",
+      "created_at": "2026-09-27T17:01:09.620Z"
+    },
+    {
+      "id": "resp_ec2pv38muk2f59y",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_43",
+      "participant_name": "Student 43",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_43_1790528469444",
+      "created_at": "2026-09-27T17:01:09.622Z"
+    },
+    {
+      "id": "resp_ufj4w7kmuk2f5a0",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_45",
+      "participant_name": "Student 45",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_45_1790528469445",
+      "created_at": "2026-09-27T17:01:09.624Z"
+    },
+    {
+      "id": "resp_s6x58armuk2f5a3",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_47",
+      "participant_name": "Student 47",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_47_1790528469445",
+      "created_at": "2026-09-27T17:01:09.627Z"
+    },
+    {
+      "id": "resp_a26yp34muk2f5a5",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_44",
+      "participant_name": "Student 44",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_44_1790528469445",
+      "created_at": "2026-09-27T17:01:09.629Z"
+    },
+    {
+      "id": "resp_kceq09omuk2f5a7",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_46",
+      "participant_name": "Student 46",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_46_1790528469445",
+      "created_at": "2026-09-27T17:01:09.631Z"
+    },
+    {
+      "id": "resp_xucibnwmuk2f5aa",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_22",
+      "participant_name": "Student 22",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_22_1790528469441",
+      "created_at": "2026-09-27T17:01:09.634Z"
+    },
+    {
+      "id": "resp_qthjurhmuk2f5ad",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-1",
+      "rating_value": null,
+      "participant_id": "concurrent_student_48",
+      "participant_name": "Student 48",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_48_1790528469445",
+      "created_at": "2026-09-27T17:01:09.637Z"
+    },
+    {
+      "id": "resp_yst0t25muk2f5ag",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "concurrent_student_49",
+      "participant_name": "Student 49",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_conc_49_1790528469446",
+      "created_at": "2026-09-27T17:01:09.640Z"
+    },
+    {
+      "id": "resp_a1ufbwsmuk2f5ao",
+      "poll_id": "poll_x77u7btmuk2f52n",
+      "question_id": "poll_x77u7btmuk2f52n",
+      "question_index": 0,
+      "option_id": "poll_x77u7btmuk2f52n-opt-2",
+      "rating_value": null,
+      "participant_id": "student_net_drop_05",
+      "participant_name": "David Kim",
+      "response_time_ms": 5000,
+      "points": null,
+      "is_correct": null,
+      "client_request_id": "req_net_retry_1790528469645",
+      "created_at": "2026-09-27T17:01:09.648Z"
+    }
+  ],
+  "idempotency": [
+    {
+      "key": "req_student01_1790528469384",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_upomedpmuk2f53i",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "student_alice_01",
+            "participant_name": "Alice Green",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_student01_1790528469384",
+            "created_at": "2026-09-27T17:01:09.390Z"
+          },
+          "responseId": "resp_upomedpmuk2f53i",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469390
+      }
+    },
+    {
+      "key": "req_conc_0_1790528469436",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_4fpzya5muk2f559",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "concurrent_student_0",
+            "participant_name": "Student 0",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_0_1790528469436",
+            "created_at": "2026-09-27T17:01:09.453Z"
+          },
+          "responseId": "resp_4fpzya5muk2f559",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469453
+      }
+    },
+    {
+      "key": "req_conc_1_1790528469437",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_a5gfiipmuk2f55f",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "concurrent_student_1",
+            "participant_name": "Student 1",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_1_1790528469437",
+            "created_at": "2026-09-27T17:01:09.459Z"
+          },
+          "responseId": "resp_a5gfiipmuk2f55f",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469459
+      }
+    },
+    {
+      "key": "req_conc_3_1790528469437",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_r86bo1lmuk2f55j",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "concurrent_student_3",
+            "participant_name": "Student 3",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_3_1790528469437",
+            "created_at": "2026-09-27T17:01:09.463Z"
+          },
+          "responseId": "resp_r86bo1lmuk2f55j",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469463
+      }
+    },
+    {
+      "key": "req_conc_5_1790528469438",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_i0u78evmuk2f55l",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "concurrent_student_5",
+            "participant_name": "Student 5",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_5_1790528469438",
+            "created_at": "2026-09-27T17:01:09.465Z"
+          },
+          "responseId": "resp_i0u78evmuk2f55l",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469465
+      }
+    },
+    {
+      "key": "req_conc_2_1790528469437",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_1qwtf4xmuk2f55n",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "concurrent_student_2",
+            "participant_name": "Student 2",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_2_1790528469437",
+            "created_at": "2026-09-27T17:01:09.467Z"
+          },
+          "responseId": "resp_1qwtf4xmuk2f55n",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469467
+      }
+    },
+    {
+      "key": "req_conc_4_1790528469437",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_wc443nimuk2f55p",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "concurrent_student_4",
+            "participant_name": "Student 4",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_4_1790528469437",
+            "created_at": "2026-09-27T17:01:09.469Z"
+          },
+          "responseId": "resp_wc443nimuk2f55p",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469469
+      }
+    },
+    {
+      "key": "req_conc_19_1790528469440",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_vyj66a8muk2f55r",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "concurrent_student_19",
+            "participant_name": "Student 19",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_19_1790528469440",
+            "created_at": "2026-09-27T17:01:09.471Z"
+          },
+          "responseId": "resp_vyj66a8muk2f55r",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469471
+      }
+    },
+    {
+      "key": "req_conc_27_1790528469441",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_bigxienmuk2f55u",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "concurrent_student_27",
+            "participant_name": "Student 27",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_27_1790528469441",
+            "created_at": "2026-09-27T17:01:09.474Z"
+          },
+          "responseId": "resp_bigxienmuk2f55u",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469474
+      }
+    },
+    {
+      "key": "req_conc_9_1790528469439",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_kdihtozmuk2f55w",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "concurrent_student_9",
+            "participant_name": "Student 9",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_9_1790528469439",
+            "created_at": "2026-09-27T17:01:09.476Z"
+          },
+          "responseId": "resp_kdihtozmuk2f55w",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469476
+      }
+    },
+    {
+      "key": "req_conc_10_1790528469439",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_tw9ftimmuk2f55x",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "concurrent_student_10",
+            "participant_name": "Student 10",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_10_1790528469439",
+            "created_at": "2026-09-27T17:01:09.477Z"
+          },
+          "responseId": "resp_tw9ftimmuk2f55x",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469477
+      }
+    },
+    {
+      "key": "req_conc_17_1790528469440",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_623wwhymuk2f55z",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "concurrent_student_17",
+            "participant_name": "Student 17",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_17_1790528469440",
+            "created_at": "2026-09-27T17:01:09.479Z"
+          },
+          "responseId": "resp_623wwhymuk2f55z",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469479
+      }
+    },
+    {
+      "key": "req_conc_18_1790528469440",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_yanl51smuk2f572",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "concurrent_student_18",
+            "participant_name": "Student 18",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_18_1790528469440",
+            "created_at": "2026-09-27T17:01:09.518Z"
+          },
+          "responseId": "resp_yanl51smuk2f572",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469518
+      }
+    },
+    {
+      "key": "req_conc_26_1790528469441",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_ivmfwcwmuk2f57i",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "concurrent_student_26",
+            "participant_name": "Student 26",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_26_1790528469441",
+            "created_at": "2026-09-27T17:01:09.534Z"
+          },
+          "responseId": "resp_ivmfwcwmuk2f57i",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469534
+      }
+    },
+    {
+      "key": "req_conc_7_1790528469438",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_p3ozieamuk2f57k",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "concurrent_student_7",
+            "participant_name": "Student 7",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_7_1790528469438",
+            "created_at": "2026-09-27T17:01:09.536Z"
+          },
+          "responseId": "resp_p3ozieamuk2f57k",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469536
+      }
+    },
+    {
+      "key": "req_conc_8_1790528469438",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_zgevxcwmuk2f57m",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "concurrent_student_8",
+            "participant_name": "Student 8",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_8_1790528469438",
+            "created_at": "2026-09-27T17:01:09.538Z"
+          },
+          "responseId": "resp_zgevxcwmuk2f57m",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469538
+      }
+    },
+    {
+      "key": "req_conc_11_1790528469439",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_ml6xgaemuk2f57n",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "concurrent_student_11",
+            "participant_name": "Student 11",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_11_1790528469439",
+            "created_at": "2026-09-27T17:01:09.539Z"
+          },
+          "responseId": "resp_ml6xgaemuk2f57n",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469539
+      }
+    },
+    {
+      "key": "req_conc_14_1790528469439",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_4xn0rdemuk2f57p",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "concurrent_student_14",
+            "participant_name": "Student 14",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_14_1790528469439",
+            "created_at": "2026-09-27T17:01:09.541Z"
+          },
+          "responseId": "resp_4xn0rdemuk2f57p",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469541
+      }
+    },
+    {
+      "key": "req_conc_15_1790528469440",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_fbtjljlmuk2f57r",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "concurrent_student_15",
+            "participant_name": "Student 15",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_15_1790528469440",
+            "created_at": "2026-09-27T17:01:09.543Z"
+          },
+          "responseId": "resp_fbtjljlmuk2f57r",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469543
+      }
+    },
+    {
+      "key": "req_conc_16_1790528469440",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_gx7hjeimuk2f57t",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "concurrent_student_16",
+            "participant_name": "Student 16",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_16_1790528469440",
+            "created_at": "2026-09-27T17:01:09.545Z"
+          },
+          "responseId": "resp_gx7hjeimuk2f57t",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469545
+      }
+    },
+    {
+      "key": "req_conc_21_1790528469440",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_bvskki5muk2f57v",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "concurrent_student_21",
+            "participant_name": "Student 21",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_21_1790528469440",
+            "created_at": "2026-09-27T17:01:09.547Z"
+          },
+          "responseId": "resp_bvskki5muk2f57v",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469547
+      }
+    },
+    {
+      "key": "req_conc_25_1790528469441",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_oonoh8pmuk2f57x",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "concurrent_student_25",
+            "participant_name": "Student 25",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_25_1790528469441",
+            "created_at": "2026-09-27T17:01:09.549Z"
+          },
+          "responseId": "resp_oonoh8pmuk2f57x",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469549
+      }
+    },
+    {
+      "key": "req_conc_6_1790528469438",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_d3bmvjmmuk2f57z",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "concurrent_student_6",
+            "participant_name": "Student 6",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_6_1790528469438",
+            "created_at": "2026-09-27T17:01:09.551Z"
+          },
+          "responseId": "resp_d3bmvjmmuk2f57z",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469551
+      }
+    },
+    {
+      "key": "req_conc_12_1790528469439",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_ju3dwt0muk2f584",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "concurrent_student_12",
+            "participant_name": "Student 12",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_12_1790528469439",
+            "created_at": "2026-09-27T17:01:09.556Z"
+          },
+          "responseId": "resp_ju3dwt0muk2f584",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469556
+      }
+    },
+    {
+      "key": "req_conc_13_1790528469439",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_wlba3xcmuk2f587",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "concurrent_student_13",
+            "participant_name": "Student 13",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_13_1790528469439",
+            "created_at": "2026-09-27T17:01:09.559Z"
+          },
+          "responseId": "resp_wlba3xcmuk2f587",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469559
+      }
+    },
+    {
+      "key": "req_conc_20_1790528469440",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_lae4nlymuk2f58b",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "concurrent_student_20",
+            "participant_name": "Student 20",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_20_1790528469440",
+            "created_at": "2026-09-27T17:01:09.563Z"
+          },
+          "responseId": "resp_lae4nlymuk2f58b",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469563
+      }
+    },
+    {
+      "key": "req_conc_23_1790528469441",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_x4wwu5nmuk2f58d",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "concurrent_student_23",
+            "participant_name": "Student 23",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_23_1790528469441",
+            "created_at": "2026-09-27T17:01:09.565Z"
+          },
+          "responseId": "resp_x4wwu5nmuk2f58d",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469565
+      }
+    },
+    {
+      "key": "req_conc_24_1790528469441",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_4d8nx5smuk2f58h",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "concurrent_student_24",
+            "participant_name": "Student 24",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_24_1790528469441",
+            "created_at": "2026-09-27T17:01:09.569Z"
+          },
+          "responseId": "resp_4d8nx5smuk2f58h",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469569
+      }
+    },
+    {
+      "key": "req_conc_28_1790528469441",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_4jcpjl6muk2f58j",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "concurrent_student_28",
+            "participant_name": "Student 28",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_28_1790528469441",
+            "created_at": "2026-09-27T17:01:09.571Z"
+          },
+          "responseId": "resp_4jcpjl6muk2f58j",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469571
+      }
+    },
+    {
+      "key": "req_conc_29_1790528469442",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_ow3sdg7muk2f58l",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "concurrent_student_29",
+            "participant_name": "Student 29",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_29_1790528469442",
+            "created_at": "2026-09-27T17:01:09.573Z"
+          },
+          "responseId": "resp_ow3sdg7muk2f58l",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469573
+      }
+    },
+    {
+      "key": "req_conc_30_1790528469442",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_plmi72gmuk2f58n",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "concurrent_student_30",
+            "participant_name": "Student 30",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_30_1790528469442",
+            "created_at": "2026-09-27T17:01:09.575Z"
+          },
+          "responseId": "resp_plmi72gmuk2f58n",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469575
+      }
+    },
+    {
+      "key": "req_conc_31_1790528469442",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_tjtlsajmuk2f58p",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "concurrent_student_31",
+            "participant_name": "Student 31",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_31_1790528469442",
+            "created_at": "2026-09-27T17:01:09.577Z"
+          },
+          "responseId": "resp_tjtlsajmuk2f58p",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469577
+      }
+    },
+    {
+      "key": "req_conc_33_1790528469442",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_ux9v1xymuk2f58r",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "concurrent_student_33",
+            "participant_name": "Student 33",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_33_1790528469442",
+            "created_at": "2026-09-27T17:01:09.579Z"
+          },
+          "responseId": "resp_ux9v1xymuk2f58r",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469579
+      }
+    },
+    {
+      "key": "req_conc_36_1790528469443",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_10nzeofmuk2f58u",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "concurrent_student_36",
+            "participant_name": "Student 36",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_36_1790528469443",
+            "created_at": "2026-09-27T17:01:09.582Z"
+          },
+          "responseId": "resp_10nzeofmuk2f58u",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469582
+      }
+    },
+    {
+      "key": "req_conc_37_1790528469443",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_s2mlonlmuk2f58w",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "concurrent_student_37",
+            "participant_name": "Student 37",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_37_1790528469443",
+            "created_at": "2026-09-27T17:01:09.584Z"
+          },
+          "responseId": "resp_s2mlonlmuk2f58w",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469584
+      }
+    },
+    {
+      "key": "req_conc_38_1790528469443",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_l9p0i87muk2f590",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "concurrent_student_38",
+            "participant_name": "Student 38",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_38_1790528469443",
+            "created_at": "2026-09-27T17:01:09.588Z"
+          },
+          "responseId": "resp_l9p0i87muk2f590",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469588
+      }
+    },
+    {
+      "key": "req_conc_32_1790528469442",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_vyx39s5muk2f59a",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "concurrent_student_32",
+            "participant_name": "Student 32",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_32_1790528469442",
+            "created_at": "2026-09-27T17:01:09.598Z"
+          },
+          "responseId": "resp_vyx39s5muk2f59a",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469598
+      }
+    },
+    {
+      "key": "req_conc_34_1790528469443",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_pdph54omuk2f59d",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "concurrent_student_34",
+            "participant_name": "Student 34",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_34_1790528469443",
+            "created_at": "2026-09-27T17:01:09.601Z"
+          },
+          "responseId": "resp_pdph54omuk2f59d",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469601
+      }
+    },
+    {
+      "key": "req_conc_35_1790528469443",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_iihx061muk2f59h",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "concurrent_student_35",
+            "participant_name": "Student 35",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_35_1790528469443",
+            "created_at": "2026-09-27T17:01:09.605Z"
+          },
+          "responseId": "resp_iihx061muk2f59h",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469605
+      }
+    },
+    {
+      "key": "req_conc_39_1790528469444",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_6ka5stamuk2f59m",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "concurrent_student_39",
+            "participant_name": "Student 39",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_39_1790528469444",
+            "created_at": "2026-09-27T17:01:09.610Z"
+          },
+          "responseId": "resp_6ka5stamuk2f59m",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469610
+      }
+    },
+    {
+      "key": "req_conc_40_1790528469444",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_47tx9clmuk2f59p",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "concurrent_student_40",
+            "participant_name": "Student 40",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_40_1790528469444",
+            "created_at": "2026-09-27T17:01:09.613Z"
+          },
+          "responseId": "resp_47tx9clmuk2f59p",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469613
+      }
+    },
+    {
+      "key": "req_conc_41_1790528469444",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_z3hva2nmuk2f59s",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "concurrent_student_41",
+            "participant_name": "Student 41",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_41_1790528469444",
+            "created_at": "2026-09-27T17:01:09.616Z"
+          },
+          "responseId": "resp_z3hva2nmuk2f59s",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469616
+      }
+    },
+    {
+      "key": "req_conc_42_1790528469444",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_462aci3muk2f59w",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "concurrent_student_42",
+            "participant_name": "Student 42",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_42_1790528469444",
+            "created_at": "2026-09-27T17:01:09.620Z"
+          },
+          "responseId": "resp_462aci3muk2f59w",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469620
+      }
+    },
+    {
+      "key": "req_conc_43_1790528469444",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_ec2pv38muk2f59y",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "concurrent_student_43",
+            "participant_name": "Student 43",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_43_1790528469444",
+            "created_at": "2026-09-27T17:01:09.622Z"
+          },
+          "responseId": "resp_ec2pv38muk2f59y",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469622
+      }
+    },
+    {
+      "key": "req_conc_45_1790528469445",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_ufj4w7kmuk2f5a0",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "concurrent_student_45",
+            "participant_name": "Student 45",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_45_1790528469445",
+            "created_at": "2026-09-27T17:01:09.624Z"
+          },
+          "responseId": "resp_ufj4w7kmuk2f5a0",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469624
+      }
+    },
+    {
+      "key": "req_conc_47_1790528469445",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_s6x58armuk2f5a3",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "concurrent_student_47",
+            "participant_name": "Student 47",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_47_1790528469445",
+            "created_at": "2026-09-27T17:01:09.627Z"
+          },
+          "responseId": "resp_s6x58armuk2f5a3",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469627
+      }
+    },
+    {
+      "key": "req_conc_44_1790528469445",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_a26yp34muk2f5a5",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "concurrent_student_44",
+            "participant_name": "Student 44",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_44_1790528469445",
+            "created_at": "2026-09-27T17:01:09.629Z"
+          },
+          "responseId": "resp_a26yp34muk2f5a5",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469629
+      }
+    },
+    {
+      "key": "req_conc_46_1790528469445",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_kceq09omuk2f5a7",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "concurrent_student_46",
+            "participant_name": "Student 46",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_46_1790528469445",
+            "created_at": "2026-09-27T17:01:09.631Z"
+          },
+          "responseId": "resp_kceq09omuk2f5a7",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469631
+      }
+    },
+    {
+      "key": "req_conc_22_1790528469441",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_xucibnwmuk2f5aa",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "concurrent_student_22",
+            "participant_name": "Student 22",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_22_1790528469441",
+            "created_at": "2026-09-27T17:01:09.634Z"
+          },
+          "responseId": "resp_xucibnwmuk2f5aa",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469634
+      }
+    },
+    {
+      "key": "req_conc_48_1790528469445",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_qthjurhmuk2f5ad",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-1",
+            "rating_value": null,
+            "participant_id": "concurrent_student_48",
+            "participant_name": "Student 48",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_48_1790528469445",
+            "created_at": "2026-09-27T17:01:09.637Z"
+          },
+          "responseId": "resp_qthjurhmuk2f5ad",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-1",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469637
+      }
+    },
+    {
+      "key": "req_conc_49_1790528469446",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_yst0t25muk2f5ag",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "concurrent_student_49",
+            "participant_name": "Student 49",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_conc_49_1790528469446",
+            "created_at": "2026-09-27T17:01:09.640Z"
+          },
+          "responseId": "resp_yst0t25muk2f5ag",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469640
+      }
+    },
+    {
+      "key": "req_net_retry_1790528469645",
+      "record": {
+        "status": 201,
+        "body": {
+          "success": true,
+          "response": {
+            "id": "resp_a1ufbwsmuk2f5ao",
+            "poll_id": "poll_x77u7btmuk2f52n",
+            "question_id": "poll_x77u7btmuk2f52n",
+            "question_index": 0,
+            "option_id": "poll_x77u7btmuk2f52n-opt-2",
+            "rating_value": null,
+            "participant_id": "student_net_drop_05",
+            "participant_name": "David Kim",
+            "response_time_ms": 5000,
+            "points": null,
+            "is_correct": null,
+            "client_request_id": "req_net_retry_1790528469645",
+            "created_at": "2026-09-27T17:01:09.648Z"
+          },
+          "responseId": "resp_a1ufbwsmuk2f5ao",
+          "points": null,
+          "totalScore": 0,
+          "isCorrect": null,
+          "selectedOptionId": "poll_x77u7btmuk2f52n-opt-2",
+          "questionIndex": 0,
+          "totalQuestions": 1
+        },
+        "timestamp": 1790528469648
+      }
+    }
+  ],
+  "updatedAt": "2026-09-27T17:01:09.648Z"
+}
